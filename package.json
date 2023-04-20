@@ -9,7 +9,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git",
-		"author": "Kefah Wambai"
-	}
+		"url": "https://idontknow/todo.git"		
+	},
+	"author": {
+		"name": "Kefah Wambai"
+		
+	  }
 }
